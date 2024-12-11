@@ -1,0 +1,11 @@
+# plaintext
+fastapi
+uvicorn
+selenium
+beautifulsoup4
+pydantic
+motor
+python-dotenv
+openai
+python-jose[cryptography]
+passlib[bcrypt]
